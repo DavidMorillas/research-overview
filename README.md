@@ -18,7 +18,7 @@ high-dimensional systems—biological, mathematical, or informational.
 
 ## Research Lines
 
-### 1. Neural Dynamics & Cognitive Models
+### 1. Neural Dynamics & Cognitive Models *(primary ongoing research)*
 Models focused on memory encoding, predictive coding, attractor dynamics,
 sequence learning, and hippocampal–cortical interaction.
 
@@ -40,28 +40,27 @@ Includes:
 
 ---
 
-### 3. Computational Exploration of Prime Number Sequences
+## 3. Computational Exploration of Prime Number Sequences
 
 **Goal:** Investigate structural and statistical patterns in prime distribution
-through analytical approximations, fractal transforms, and computational
-validation.
+via analytical approximations, fractal transforms, and computational validation.
 
-Current open-science experimental frameworks:
-
-#### **• Morillas–Fourier Method (MFM)**
+### • Morillas–Fourier Method (MFM)
 A computational framework combining fractal functional transforms with
 frequency-domain analysis to generate candidate prime distributions.
 
 Zenodo: https://doi.org/10.5281/zenodo.14961057  
-Repository: https://github.com/DavidMorillas/Morillas-Fourier-Method-MFM
+Repository: https://github.com/DavidMorillas/Morillas-Fourier-Method-MFM  
+
 Code included for full reproducibility.
 
-#### • Hybrid Fractal + ML Prediction Framework
+### • Hybrid Fractal + ML Prediction Framework
 Combines analytical approximation with machine learning residual correction
 and adaptive weighting.
 
 Zenodo: https://doi.org/10.5281/zenodo.14963071  
 Repository: https://github.com/DavidMorillas/prime_prediction  
+
 Code included for full reproducibility.
 
 **Note:** These are **computational and exploratory works**, not formal proofs
@@ -82,8 +81,8 @@ All results are:
 ## Author & Contact
 
 **ORCID:** https://orcid.org/0009-0005-9642-1786  
-**Zenodo (works index):** https://zenodo.org/search?q=%22Morillas+Armend%C3%A1riz%22  
-**LinkedIn:** https://www.linkedin.com/in/davidmorillas/  
+**Zenodo (works index):** https://zenodo.org/search?q=Morillas+Armendariz  
+**LinkedIn:** https://www.linkedin.com/in/david-morillas-armend%C3%A1riz-83961383/
 
 ---
 
