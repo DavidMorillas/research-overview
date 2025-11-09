@@ -54,12 +54,14 @@ frequency-domain analysis to generate candidate prime distributions.
 
 Zenodo: https://doi.org/10.5281/zenodo.14961057  
 Repository: https://github.com/DavidMorillas/Morillas-Fourier-Method-MFM
+Code included for full reproducibility.
 
-#### **• Hybrid Fractal + ML Prediction Framework**
+#### • Hybrid Fractal + ML Prediction Framework
 Combines analytical approximation with machine learning residual correction
 and adaptive weighting.
 
 Zenodo: https://doi.org/10.5281/zenodo.14963071  
+Repository: https://github.com/DavidMorillas/prime_prediction  
 Code included for full reproducibility.
 
 **Note:** These are **computational and exploratory works**, not formal proofs
